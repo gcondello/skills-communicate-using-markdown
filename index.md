@@ -13,7 +13,13 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var myVar = "Hello, world!";
 ```
 #### Header4
+Creating a List
+- [ ] Turn on GitHub pages
+- [ ] Outline portfolio
+- [ ] Introduce myself
+ 
 ##### Header5
 ###### Header6
+
 
 
